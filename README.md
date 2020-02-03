@@ -1,6 +1,6 @@
 # Source separation with weakly labelled data: An approach to computational auditory scene analysis
 
 ## Demo
-https://studio.youtube.com/video/g9NaNVhyCbY/edit
+https://www.youtube.com/watch?v=g9NaNVhyCbY
 
-https://studio.youtube.com/video/QleD1YF0nHU/edit
+https://www.youtube.com/watch?v=QleD1YF0nHU
